@@ -1,4 +1,4 @@
-from get_product import get_product
+from main import get_product
 
 def test_get_product():
     with open('html/product1.html', 'r') as f:
